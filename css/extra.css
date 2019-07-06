@@ -7,9 +7,22 @@
 /* Background images are set within the HTML using inline CSS, not here */
 
 
-img{
+
+.navbar-inverse {
+	font-family:DFKai-sb,Times, TimesNR, 'New Century Schoolbook', Georgia,'New York', serif;   
+	background-color:#227700;
 
 }
-.btn {
 
+.navbar-inverse .navbar-nav>li>a{
+	font-size:30px;
+	color:#FFFFFF;
+}
+.navbar-inverse .navbar-brand {
+    font-size:30px;
+	color:#FFFFFF;
+}
+
+.slides-text{
+	color:#FF0000
 }
